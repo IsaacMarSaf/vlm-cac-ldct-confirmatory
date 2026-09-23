@@ -1,0 +1,15 @@
+tree 9fdd33d9f3a3beede42509e57ef0364d49f49d6d
+parent ea04f60b193a14840673aaf764ed868afc5a1608
+author Isaac Eli Martinez Safar <isaaclolyt@gmail.com> 1790178619 -0500
+committer Isaac Eli Martinez Safar <isaaclolyt@gmail.com> 1790178619 -0500
+
+Freeze confirmatory protocol v1.0 before any confirmatory read
+
+Prespecified design for the confirmatory study (Claude Opus 5.5 and GPT vs DeepCAC):
+100 never-used NLST participants (25 per Agatston stratum, seed 2026), contiguous
+2.5-mm rendering, identical prompt, 200 audited reads per model (100 main + 20x5
+dedicated reliability reads), primary noninferiority of sensitivity for any CAC
+(margin 10 points, Newcombe paired 97.5% CI). Sampling, download, rendering and
+analysis code frozen with the protocol; analysis code dry-run on pilot data only.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

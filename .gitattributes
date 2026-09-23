@@ -1,0 +1,3 @@
+# Store and check out every file byte for byte (no line-ending conversion), so that the frozen files keep the bytes
+# that hash to the blob ids of the protocol-freeze commit (see provenance/verify_freeze.py).
+* -text

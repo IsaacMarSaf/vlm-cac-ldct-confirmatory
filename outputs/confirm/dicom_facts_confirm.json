@@ -1,0 +1,502 @@
+{
+ "101867": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "101885": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "104092": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "105926": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "108985": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "110849": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "116034": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "120280": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "122575": {
+  "manufacturer": "Philips",
+  "kernel": "B",
+  "thickness": 3.2
+ },
+ "127110": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "127183": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "129073": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "204460": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "205397": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "206021": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 1.25
+ },
+ "206081": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 1.0
+ },
+ "206441": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "209187": {
+  "manufacturer": "TOSHIBA",
+  "kernel": "FC51",
+  "thickness": 2.0
+ },
+ "209973": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 3.2
+ },
+ "212059": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "212729": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "216569": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "216739": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "218103": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "218360": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "116181": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "210480": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "209411": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "108191": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "112936": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "218313": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "110452": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "208780": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 1.0
+ },
+ "107044": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B50f",
+  "thickness": 2.0
+ },
+ "129654": {
+  "manufacturer": "Philips",
+  "kernel": "D",
+  "thickness": 3.2
+ },
+ "132430": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "121562": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "134385": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "109725": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "124568": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "115363": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "110094": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "115787": {
+  "manufacturer": "TOSHIBA",
+  "kernel": "FC51",
+  "thickness": 2.0
+ },
+ "103367": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 3.2
+ },
+ "130419": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "107868": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "111803": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B50f",
+  "thickness": 2.0
+ },
+ "100730": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "113559": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "118365": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "125179": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "125009": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "207168": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "112031": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B50f",
+  "thickness": 2.0
+ },
+ "120482": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "203484": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 1.25
+ },
+ "208410": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "200507": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 2.0
+ },
+ "200887": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "214655": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "101748": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "117547": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "217712": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 1.3
+ },
+ "104818": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "131271": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "208306": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 1.3
+ },
+ "200862": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 2.0
+ },
+ "131268": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "123427": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "214753": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 1.0
+ },
+ "114177": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "100352": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "100954": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "212637": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 1.25
+ },
+ "127983": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 3.2
+ },
+ "216332": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "207511": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "117950": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "203025": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "116804": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "130268": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "209920": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "106065": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B50f",
+  "thickness": 2.0
+ },
+ "209249": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 2.0
+ },
+ "106318": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "103093": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "113576": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "125808": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "100099": {
+  "manufacturer": "Philips",
+  "kernel": "D",
+  "thickness": 3.2
+ },
+ "112633": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "201310": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "203125": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "130133": {
+  "manufacturer": "Philips",
+  "kernel": "C",
+  "thickness": 3.2
+ },
+ "108732": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "100858": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "119485": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "111275": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "115259": {
+  "manufacturer": "GE MEDICAL SYSTEMS",
+  "kernel": "STANDARD",
+  "thickness": 2.5
+ },
+ "114097": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ },
+ "115992": {
+  "manufacturer": "SIEMENS",
+  "kernel": "B30f",
+  "thickness": 2.0
+ }
+}

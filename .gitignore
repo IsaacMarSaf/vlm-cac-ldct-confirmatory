@@ -1,0 +1,26 @@
+# third-party reference file and the list rebuilt from it (not redistributed; see data/README.md)
+data/Results_NLST.csv
+data/confirm_100_pids.csv
+# source images and renders (see README: Imaging Data Commons; release archive)
+data/raw/
+outputs/confirm/png/*/
+*.dcm
+*.zip
+# regenerated outputs
+manuscript_v3/
+rerun/
+__pycache__/
+*.pyc
+.deposit_marker
+# never commit a Codex CLI profile or credentials (do not set CODEX_HOME inside this repository)
+**/cli_home/
+.codex/
+auth.json
+installation_id
+*.sqlite
+*.sqlite-*
+.env
+.env.*
+reader_package/runner/smoke/
+reader_package/outputs/
+reader_package/images/

@@ -1,0 +1,505 @@
+{
+ "package": "CAC confirmatory blinded reader package (v1.0)",
+ "sets": [
+  {
+   "set": "C1",
+   "tier": 1,
+   "role": "main benchmark, one read per study",
+   "image_root": "images/full",
+   "prompt": "P_FULL_MEDIASTINAL",
+   "reads_per_study": 1,
+   "studies": [
+    {
+     "study_id": "E001",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E002",
+     "n_slices": 73
+    },
+    {
+     "study_id": "E003",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E004",
+     "n_slices": 62
+    },
+    {
+     "study_id": "E005",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E006",
+     "n_slices": 82
+    },
+    {
+     "study_id": "E007",
+     "n_slices": 77
+    },
+    {
+     "study_id": "E008",
+     "n_slices": 65
+    },
+    {
+     "study_id": "E009",
+     "n_slices": 67
+    },
+    {
+     "study_id": "E010",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E011",
+     "n_slices": 60
+    },
+    {
+     "study_id": "E012",
+     "n_slices": 73
+    },
+    {
+     "study_id": "E013",
+     "n_slices": 67
+    },
+    {
+     "study_id": "E014",
+     "n_slices": 60
+    },
+    {
+     "study_id": "E015",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E016",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E017",
+     "n_slices": 67
+    },
+    {
+     "study_id": "E018",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E019",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E020",
+     "n_slices": 75
+    },
+    {
+     "study_id": "E021",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E022",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E023",
+     "n_slices": 62
+    },
+    {
+     "study_id": "E024",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E025",
+     "n_slices": 75
+    },
+    {
+     "study_id": "E026",
+     "n_slices": 68
+    },
+    {
+     "study_id": "E027",
+     "n_slices": 65
+    },
+    {
+     "study_id": "E028",
+     "n_slices": 73
+    },
+    {
+     "study_id": "E029",
+     "n_slices": 65
+    },
+    {
+     "study_id": "E030",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E031",
+     "n_slices": 44
+    },
+    {
+     "study_id": "E032",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E033",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E034",
+     "n_slices": 72
+    },
+    {
+     "study_id": "E035",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E036",
+     "n_slices": 65
+    },
+    {
+     "study_id": "E037",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E038",
+     "n_slices": 75
+    },
+    {
+     "study_id": "E039",
+     "n_slices": 48
+    },
+    {
+     "study_id": "E040",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E041",
+     "n_slices": 79
+    },
+    {
+     "study_id": "E042",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E043",
+     "n_slices": 56
+    },
+    {
+     "study_id": "E044",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E045",
+     "n_slices": 84
+    },
+    {
+     "study_id": "E046",
+     "n_slices": 60
+    },
+    {
+     "study_id": "E047",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E048",
+     "n_slices": 72
+    },
+    {
+     "study_id": "E049",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E050",
+     "n_slices": 69
+    },
+    {
+     "study_id": "E051",
+     "n_slices": 61
+    },
+    {
+     "study_id": "E052",
+     "n_slices": 69
+    },
+    {
+     "study_id": "E053",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E054",
+     "n_slices": 72
+    },
+    {
+     "study_id": "E055",
+     "n_slices": 56
+    },
+    {
+     "study_id": "E056",
+     "n_slices": 80
+    },
+    {
+     "study_id": "E057",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E058",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E059",
+     "n_slices": 75
+    },
+    {
+     "study_id": "E060",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E061",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E062",
+     "n_slices": 62
+    },
+    {
+     "study_id": "E063",
+     "n_slices": 67
+    },
+    {
+     "study_id": "E064",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E065",
+     "n_slices": 80
+    },
+    {
+     "study_id": "E066",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E067",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E068",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E069",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E070",
+     "n_slices": 62
+    },
+    {
+     "study_id": "E071",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E072",
+     "n_slices": 81
+    },
+    {
+     "study_id": "E073",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E074",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E075",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E076",
+     "n_slices": 53
+    },
+    {
+     "study_id": "E077",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E078",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E079",
+     "n_slices": 78
+    },
+    {
+     "study_id": "E080",
+     "n_slices": 80
+    },
+    {
+     "study_id": "E081",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E082",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E083",
+     "n_slices": 57
+    },
+    {
+     "study_id": "E084",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E085",
+     "n_slices": 73
+    },
+    {
+     "study_id": "E086",
+     "n_slices": 77
+    },
+    {
+     "study_id": "E087",
+     "n_slices": 73
+    },
+    {
+     "study_id": "E088",
+     "n_slices": 68
+    },
+    {
+     "study_id": "E089",
+     "n_slices": 62
+    },
+    {
+     "study_id": "E090",
+     "n_slices": 72
+    },
+    {
+     "study_id": "E091",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E092",
+     "n_slices": 71
+    },
+    {
+     "study_id": "E093",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E094",
+     "n_slices": 77
+    },
+    {
+     "study_id": "E095",
+     "n_slices": 69
+    },
+    {
+     "study_id": "E096",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E097",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E098",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E099",
+     "n_slices": 72
+    },
+    {
+     "study_id": "E100",
+     "n_slices": 65
+    }
+   ]
+  },
+  {
+   "set": "C2",
+   "tier": 1,
+   "role": "reliability, five dedicated reads per study (interleaved by read number)",
+   "image_root": "images/full",
+   "prompt": "P_FULL_MEDIASTINAL",
+   "reads_per_study": 5,
+   "studies": [
+    {
+     "study_id": "E003",
+     "n_slices": 66
+    },
+    {
+     "study_id": "E012",
+     "n_slices": 73
+    },
+    {
+     "study_id": "E022",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E027",
+     "n_slices": 65
+    },
+    {
+     "study_id": "E033",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E037",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E038",
+     "n_slices": 75
+    },
+    {
+     "study_id": "E043",
+     "n_slices": 56
+    },
+    {
+     "study_id": "E044",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E053",
+     "n_slices": 70
+    },
+    {
+     "study_id": "E063",
+     "n_slices": 67
+    },
+    {
+     "study_id": "E064",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E072",
+     "n_slices": 81
+    },
+    {
+     "study_id": "E074",
+     "n_slices": 74
+    },
+    {
+     "study_id": "E075",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E076",
+     "n_slices": 53
+    },
+    {
+     "study_id": "E084",
+     "n_slices": 64
+    },
+    {
+     "study_id": "E086",
+     "n_slices": 77
+    },
+    {
+     "study_id": "E098",
+     "n_slices": 63
+    },
+    {
+     "study_id": "E099",
+     "n_slices": 72
+    }
+   ]
+  }
+ ]
+}

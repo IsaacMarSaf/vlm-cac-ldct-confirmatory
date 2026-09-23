@@ -1,0 +1,22 @@
+{
+  "deviations": [
+    "Codex CLI does not expose a per-image detail setting; native PNG files are attached without resizing, with CLI-managed image detail.",
+    "Codex CLI does not report the effective default reasoning effort or the API-returned model identifier; metadata records the requested model gpt-6-astra and an unspecified default effort.",
+    "Codex CLI does not provide a switch that removes all agent tools; the runner rejects any read whose event stream reports a tool call.",
+    "The first clinical launch stopped before any read because outputs/ did not exist; the empty directory was created and the runner restarted without repeating a read.",
+    "An isolated Codex CLI device sign-in connected to OpenAI authentication before the run, beyond the model-only network connection specified for the reader. Its temporary auth.json was deleted after completion."
+  ],
+  "provider": "OpenAI",
+  "model": "gpt-6-astra",
+  "harness_mode": "B",
+  "harness_description": "codex-cli 0.155.0-alpha.16; new ephemeral exec per attempt",
+  "reasoning_effort": "default (not reported by Codex CLI)",
+  "image_detail": "CLI-managed (not exposed)",
+  "structured_output_method": "native_strict",
+  "web_access": false,
+  "tiers_run": [
+    1
+  ],
+  "date_started": "2026-09-23T18:21:29.196327+00:00",
+  "date_finished": "2026-09-23T19:36:45.803649+00:00"
+}
