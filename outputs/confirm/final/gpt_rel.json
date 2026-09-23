@@ -1,0 +1,3474 @@
+[
+ {
+  "pid": "209920",
+  "study_id": "E003",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified atherosclerosis of the thoracic aorta and proximal arch branches"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 66 slices were reviewed. Dense, confluent calcium follows the left main/proximal LAD region across slices 022–026. Additional calcium follows the RCA on several inferior slices, with a proximal focus on slice 020. LCx involvement is not confidently separable from the adjacent left coronary deposits. The combined dense, contiguous and multivessel burden supports severe CAC. The Agatston category is a visual estimate, not a measured score.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T18:58:46.332338+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38322,
+   "output_tokens": 466,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "208410",
+  "study_id": "E012",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD, near the left main bifurcation"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch wall calcification",
+   "Calcified left hilar and subcarinal lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 73 slices reviewed. A short focal coronary calcification is visible on slices 030–033 near the left main/proximal LAD junction, favored proximal LAD. No definite additional LCx or RCA calcium or extensive continuous coronary deposits. Overall burden appears mild. Image noise and streak artifact limit precise vessel localization and detection of tiny deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T18:59:11.955037+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40779,
+   "output_tokens": 608,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "116034",
+  "study_id": "E022",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcification.",
+   "Punctate right breast calcification."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 contiguous slices reviewed. No definite calcified plaque along the LM, LAD, LCx, or RCA. Coronary courses remain gray without isolated bright flecks or continuous calcified deposits. Mild noise and motion do not materially limit visual CAC assessment.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T18:59:28.879887+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 313,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "209973",
+  "study_id": "E027",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification, predominantly in the aortic arch."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 65 contiguous slices. A small calcific fleck near the left main coronary origin is most apparent on slice_022, with subtle appearance on the adjacent slice. No definite LAD, LCx, or RCA calcium and no extensive or continuous coronary deposits. Coronary localization is somewhat limited by proximity to the aortic root. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T18:59:53.148970+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37971,
+   "output_tokens": 509,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "115992",
+  "study_id": "E033",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "RCA",
+   "LCx",
+   "LM"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Prior median sternotomy with numerous mediastinal surgical clips and metallic streak artifact",
+   "Aortic root and mild thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Across the contiguous series, dense curvilinear calcium follows the RCA and LCx over multiple slices, with additional probable left main calcium. The overall visible burden favors severe CAC. Numerous surgical clips are excluded from scoring; their streak artifact limits proximal left coronary and LAD assessment. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:00:23.358053+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 649,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "116181",
+  "study_id": "E037",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic root and thoracic aortic wall calcification",
+   "Calcified right hilar/subcarinal lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Review of all 63 slices shows a small focal calcific deposit along the proximal LAD course on approximately slices 026–029. No definite LM, LCx, or RCA calcium or extensive continuous coronary deposits. Other conspicuous calcifications are outside the coronary arteries. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:00:52.564405+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 704,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "123427",
+  "study_id": "E038",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Extensive thoracic aortic wall calcification",
+   "Aortic valve/root calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 75 slices reviewed. Definite calcium follows the left main/proximal LAD across several consecutive slices, with small additional RCA foci. No convincing LCx calcium. Overall coronary burden is moderate; much of the conspicuous central calcium belongs to the aortic valve/root and aortic wall. Motion and image noise limit assessment of smaller coronary deposits; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:01:19.176945+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41481,
+   "output_tokens": 605,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "204460",
+  "study_id": "E043",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Left main coronary artery",
+   "Left anterior descending coronary artery"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Aortic root/valvular calcification",
+   "Calcified right upper lobe granuloma and right hilar lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 56 slices reviewed. Small focal calcifications are visible near the left main origin on slices 017–018 and along the LAD around slice 012. Overall coronary burden is sparse, without dense or extensive deposits. No definite RCA or LCx calcium. Cardiac motion and image noise limit precise localization of the smallest foci; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:01:42.331548+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 34812,
+   "output_tokens": 536,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "125808",
+  "study_id": "E044",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Extensive calcified atherosclerosis of the ascending thoracic aorta, aortic arch, descending thoracic aorta, and proximal arch branches."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. Dense, nearly continuous RCA calcification spans approximately slices 000–010. Additional definite calcium involves the LAD and LCx across several slices near 007–014, with proximal extension into the LM near 014–016. The extensive multivessel coronary burden supports severe CAC and an estimated Agatston category >300. Thoracic aortic wall calcium was excluded. Cardiac motion limits precise plaque boundaries; the category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:02:02.572521+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 342,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "108732",
+  "study_id": "E053",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Aortic valve/root calcification",
+   "Thoracic aortic atherosclerotic calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 70 slices reviewed. Dense, confluent calcium involves the left main/proximal LAD and LCx across multiple contiguous slices, particularly slices 020–028. Additional smaller calcified plaques follow the RCA course. The extensive multivessel burden supports severe CAC. Aortic valve/root and thoracic aortic wall calcium were excluded from the coronary assessment. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:02:22.585546+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 39726,
+   "output_tokens": 422,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "125179",
+  "study_id": "E063",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Focal posterior cardiac/pericardial calcification",
+   "Small calcified left hilar lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 67 slices reviewed. Definite multifocal calcium follows the LAD and LCx, with probable distal LM involvement, most evident on slices 007 and 012–017. No definite RCA calcium. Deposits exceed isolated flecks but are not extensively confluent, supporting moderate overall burden. Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:02:44.682254+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38673,
+   "output_tokens": 521,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "216332",
+  "study_id": "E064",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild thoracic aortic wall calcification",
+   "Elevated left hemidiaphragm"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 74 slices reviewed. Definite dense calcification follows the left main/proximal LAD course on slices 040–042, exceeding isolated flecks but remaining localized. No definite LCx or RCA calcification is visible. Overall burden is visually moderate; the Agatston category is estimated, not measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:03:02.718439+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 304,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "118365",
+  "study_id": "E072",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic arch wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 81 slices reviewed. Definite short calcified plaques involve the proximal LAD across slices 034–038, LCx around slices 029–031, and RCA around slices 008–010 and 021–023. No definite LM calcium. The aggregate burden is more than isolated flecks but remains localized without extensive dense continuous calcification, favoring moderate CAC. Motion and PNG-only assessment limit precise Agatston estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:03:20.877746+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 43587,
+   "output_tokens": 367,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "218360",
+  "study_id": "E074",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications.",
+   "Thoracic vertebral degenerative osteophytes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 74 contiguous slices were examined. No definite bright calcific foci are visible along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray without isolated flecks or continuous calcified deposits. Visible dense calcifications are extracardiac and associated with bone and costal cartilage.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:03:37.492388+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 245,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "101867",
+  "study_id": "E075",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification.",
+   "Small aortic root/valvular calcifications.",
+   "Calcified right hilar and mediastinal lymph nodes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 slices reviewed. Small focal calcifications follow the proximal LAD on slices 021–022. No definite LM, LCx, or RCA calcification and no extensive or continuous coronary deposits. Overall visual burden is mild; the Agatston category is an estimate from the displayed images.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:03:56.458402+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 386,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "103367",
+  "study_id": "E076",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LCx"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic root wall calcification",
+   "Mild thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 53 slices reviewed. Definite short-segment calcification follows the proximal LCx/left atrioventricular groove on several consecutive slices, most conspicuous on slices 014–017. No definite additional calcium is identified in the LM, LAD, or RCA. Overall burden exceeds isolated flecks but is not extensive. Aortic wall calcium is excluded. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:04:26.162128+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 33759,
+   "output_tokens": 720,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "217712",
+  "study_id": "E084",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar lymph nodes",
+   "Calcified left pulmonary granuloma",
+   "Minimal thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 64 slices reviewed. A small, short segment of coronary calcification is visible along the proximal LAD course on approximately slices 035–037. No definite additional calcium is identified in the LM, LCx, or RCA. Overall burden is mild. Image noise and cardiac motion limit precise localization and detection of very small deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:04:49.997406+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 548,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "127983",
+  "study_id": "E086",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Tracheobronchial cartilage calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 77 contiguous slices. Dense, confluent calcium involves the left main/proximal LAD region, most conspicuous on slices 029–034, with additional LCx calcium across adjacent inferior slices. No definite RCA calcium. The combined dense, continuous left coronary burden favors severe CAC. Motion and image noise limit precise vessel assignment and quantitative estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:05:13.091167+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 42183,
+   "output_tokens": 502,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "134385",
+  "study_id": "E098",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Densely calcified subcarinal and bilateral hilar lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 63 slices. Small focal calcification along the left main coronary course near its origin, best seen on slice_020. No definite LAD, LCx, or RCA calcification and no extensive or continuous coronary deposits. Prominent posterior mediastinal and hilar calcifications are extracoronary. Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:05:31.508388+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 372,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "110452",
+  "study_id": "E099",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LCx"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Calcified right hilar lymph nodes",
+   "Focal inferior pericardial calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 72 slices reviewed. A short linear calcified deposit follows the LCx course in the left AV groove across slices 026–030, exceeding an isolated fleck. No definite LM, LAD, or RCA calcium is identified. Overall burden is moderate and confined to one vessel. Motion and image noise limit precise localization and burden estimation; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:05:53.134753+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40428,
+   "output_tokens": 445,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 1
+ },
+ {
+  "pid": "209920",
+  "study_id": "E003",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified atherosclerosis of the thoracic aorta and proximal arch branches"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 66 slices reviewed. Dense confluent calcium follows the left main–proximal LAD course across slices 022–026. Additional calcified plaques follow the RCA on multiple lower slices, with another proximal focus at slice 020. LCx involvement is not definite. The dense contiguous left coronary deposits and additional RCA disease support severe overall CAC. Cardiac motion limits precise segment assignment; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:06:17.642076+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38322,
+   "output_tokens": 612,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "208410",
+  "study_id": "E012",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD (proximal)"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch wall calcification",
+   "Calcified left hilar and subcarinal lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 73 slices reviewed. A small focal calcified plaque follows the proximal LAD near the left main bifurcation on slices 030–033. No definite separate LM, LCx, or RCA calcification is identified. Overall coronary burden is small and localized, without extensive continuous deposits. Image noise and streak artifacts limit precise vessel localization and detection of tiny deposits; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:06:38.517040+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40779,
+   "output_tokens": 477,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "116034",
+  "study_id": "E022",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications.",
+   "External metallic artifacts causing mild streaking."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 contiguous slices were reviewed. No definite bright calcific foci are visible along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray without isolated flecks or continuous calcified deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:06:52.336328+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 246,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "209973",
+  "study_id": "E027",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification, most prominent in the aortic arch."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 65 slices reviewed. A small focal calcification near the left main coronary course is most evident on slice_022. No definite additional calcium is seen along the LAD, LCx, or RCA. The coronary burden is sparse, without dense or continuous deposits. Separate ascending aortic and arch calcifications are excluded from CAC.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:07:12.316087+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37971,
+   "output_tokens": 430,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "115992",
+  "study_id": "E033",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "RCA",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Prior median sternotomy with numerous mediastinal surgical clips",
+   "Aortic root/valvular calcification",
+   "Mild thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 74 slices reviewed. Dense, elongated coronary calcification extends across consecutive slices, most clearly along the RCA and LCx, with additional LAD-region deposits. The overall visible burden favors severe CAC. Numerous surgical clips and associated streak artifact limit separation of calcium from postoperative metal, especially near the proximal left coronary arteries; clips and noncoronary calcification were excluded from the visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:07:35.926243+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 543,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "116181",
+  "study_id": "E037",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic root and thoracic aortic wall calcification.",
+   "Calcified hilar and mediastinal lymph nodes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 contiguous slices reviewed. No definite calcified plaque is visible along the LM, LAD, LCx, or RCA. Bright extracoronary foci correspond to aortic and hilar/mediastinal calcifications. Mild motion and image noise reduce sensitivity for minute coronary deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:07:55.863224+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 406,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "123427",
+  "study_id": "E038",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic valve calcification",
+   "Extensive thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 75 contiguous slices. Definite calcification follows the left main/proximal LAD course across several adjacent slices, with additional small RCA flecks. No convincing LCx calcium. Overall coronary burden appears moderate; the more extensive aortic wall and aortic valve calcifications are excluded. Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:08:28.625025+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41481,
+   "output_tokens": 665,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "204460",
+  "study_id": "E043",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM ostium/proximal LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Aortic root/valvular calcification",
+   "Calcified right upper lobe granuloma and right hilar lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 56 slices reviewed. A small calcific focus near the LM origin persists on slices 017–018, favoring mild coronary calcium. No definite additional LAD, LCx, or RCA calcium or extensive coronary deposits. Cardiac motion limits precise separation of ostial coronary calcium from adjacent aortic root calcium. Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:08:55.648595+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 34812,
+   "output_tokens": 563,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "125808",
+  "study_id": "E044",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Extensive calcified atherosclerosis of the ascending thoracic aorta, aortic arch, and descending thoracic aorta."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices were reviewed. Dense, continuous RCA calcification spans multiple consecutive slices. Additional definite calcium involves the left main, proximal LAD, and LCx. The extensive multivessel coronary calcium supports severe visual CAC and an estimated Agatston category >300. Aortic wall calcium was assessed separately and excluded from CAC.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:09:14.763685+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 339,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "108732",
+  "study_id": "E053",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Aortic valve calcification",
+   "Thoracic aortic atherosclerotic calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 70 slices reviewed. Dense, contiguous calcification involves the left main/proximal LAD and LCx across several consecutive slices, with additional scattered RCA calcification. The aggregate multivessel burden supports severe CAC. Aortic valve and thoracic aortic wall calcium were excluded. Agatston category is visually estimated, not quantitatively measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:09:32.490523+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 39726,
+   "output_tokens": 339,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "125179",
+  "study_id": "E063",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar and mediastinal lymph nodes",
+   "Focal posterior cardiac calcification, likely pericardial"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 67 slices reviewed. Definite multifocal calcium follows the LAD and LCx, with probable distal LM involvement, predominantly on slices 012–017 and a separate LCx focus on slice 007. No definite RCA calcium. Overall burden exceeds isolated flecks but lacks extensive dense, continuous deposits; visually estimated as moderate. Agatston category is an estimate from rendered images.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:09:58.101185+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38673,
+   "output_tokens": 662,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "216332",
+  "study_id": "E064",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild thoracic aortic wall calcification",
+   "Elevated left hemidiaphragm with adjacent mild atelectatic change"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 74 slices reviewed. Definite dense calcified plaques involve the distal left main and proximal LAD on slices 040–042. No convincing LCx or RCA calcium is identified. The deposits exceed isolated flecks but remain localized to short proximal segments, supporting moderate overall CAC. The Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:10:17.805587+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 388,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "118365",
+  "study_id": "E072",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic arch wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 81 slices reviewed. Definite short-segment proximal LAD calcification spans consecutive slices, with smaller LCx and RCA deposits. No definite left-main calcium. Overall burden exceeds isolated flecks but lacks extensive, long, densely calcified segments. Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:10:36.137164+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 43587,
+   "output_tokens": 371,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "218360",
+  "study_id": "E074",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications.",
+   "Thoracic vertebral degenerative osteophytes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 74 contiguous slices. No definite bright calcified plaque is visible along the LM, LAD, LCx, or RCA courses. Coronary regions remain soft-tissue gray without isolated calcific flecks or continuous deposits. Bright skeletal and costal cartilage structures are extracoronary.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:10:51.239418+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 254,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "101867",
+  "study_id": "E075",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification, including the aortic root",
+   "Calcified right hilar and mediastinal lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 slices reviewed. Small focal calcifications follow the proximal LAD on slices 021–022, without extensive or continuous deposits. No definite LM, LCx, or RCA calcium. Aortic-root and posterior hilar/mediastinal calcifications are excluded from CAC. Overall coronary calcium burden is mild.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:11:08.099480+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 350,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "103367",
+  "study_id": "E076",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LCx"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic root and thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 53 slices reviewed. A short segment of definite coronary calcification near the left main/proximal LCx spans approximately slices 014–017. No definite LAD or RCA calcification is identified. Overall burden appears moderate without extensive distal deposits. Image noise and cardiac motion limit precise vessel attribution; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:11:36.444828+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 33759,
+   "output_tokens": 692,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "217712",
+  "study_id": "E084",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar lymph nodes and small pulmonary granulomas",
+   "Minimal thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 slices reviewed. A short linear calcified plaque follows the proximal LAD course across approximately slices 035–037, exceeding an isolated punctate fleck. No definite separate LM, LCx, or RCA calcification is identified. Overall burden appears moderate without extensive multivessel deposits; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:12:04.935403+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 710,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "127983",
+  "study_id": "E086",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Tracheobronchial cartilage calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 77 slices reviewed. Dense, confluent calcium follows the left main/proximal LAD across consecutive slices, with additional LCx calcification in the left atrioventricular groove. No definite RCA calcium. The combined dense, multivessel burden favors severe CAC. Cardiac motion and image noise limit precise vessel boundaries; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:12:25.215776+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 42183,
+   "output_tokens": 447,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "134385",
+  "study_id": "E098",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified mediastinal and bilateral hilar lymph nodes, including a densely calcified subcarinal node."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. Small focal calcium along the left main coronary origin, most conspicuous on slice_020, without extensive or continuous deposits. No definite LAD, LCx, or RCA calcium. Prominent posterior mediastinal and hilar calcifications are extracoronary. Mild motion and noise limit precise localization; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:12:44.154034+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 330,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "110452",
+  "study_id": "E099",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LCx"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification.",
+   "Calcified right hilar lymph nodes.",
+   "Focal inferior pericardial calcification."
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 72 slices reviewed. Small linear calcific deposits follow the LCx region of the left atrioventricular groove on slices 026–029. Overall burden is sparse, without extensive dense calcium. No definite LM, LAD, or RCA calcification identified. Motion and streak artifacts limit precise localization and burden estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:13:04.133292+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40428,
+   "output_tokens": 434,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 2
+ },
+ {
+  "pid": "209920",
+  "study_id": "E003",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified atherosclerosis of the thoracic aorta and proximal arch branches"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 66 slices reviewed. Dense, confluent calcium follows the left main/proximal LAD across slices 022–026. Additional RCA calcification appears on several inferior slices and near its origin. No definite separate LCx calcium is identified. The dense multivessel burden supports severe visual CAC; the Agatston category is an estimate from images, not a measured score.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:13:24.916822+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38322,
+   "output_tokens": 362,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "208410",
+  "study_id": "E012",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD near the left main bifurcation"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch wall calcification",
+   "Calcified left hilar and subcarinal lymph nodes",
+   "Small focal calcification along the inferolateral pericardial surface"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Reviewed all 73 contiguous slices. A small localized coronary calcific deposit is visible on slices 030–033, most consistent with proximal LAD involvement near the left main bifurcation. No definite separate LM, LCx, or RCA deposits are identified. Overall burden is limited and favors mild CAC. Image noise and motion limit precise vessel localization; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:13:56.131025+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40779,
+   "output_tokens": 745,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "116034",
+  "study_id": "E022",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications.",
+   "Punctate right breast calcification."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 contiguous slices reviewed. No definite bright calcified foci along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray without isolated calcific flecks or continuous deposits. Mild noise and streak artifacts do not substantially impair visual CAC assessment.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:14:13.182931+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 258,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "209973",
+  "study_id": "E027",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification, including the ascending aorta and aortic arch."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 65 contiguous slices. A small focal calcification near the left main coronary origin is most apparent on slice_022. No definite additional calcium follows the LAD, LCx, or RCA, and no dense or continuous coronary deposits are seen. The focus is close to the aortic wall, limiting localization confidence. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:14:32.686820+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37971,
+   "output_tokens": 417,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "115992",
+  "study_id": "E033",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "LOW",
+  "alternative_findings": [
+   "Prior median sternotomy with numerous mediastinal and cardiac surgical clips causing metallic streak artifact",
+   "Aortic root and thoracic aortic calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Across the contiguous series, dense curvilinear calcification follows the RCA and LCx over multiple slices, with additional probable left-main calcium. The overall visible burden favors severe CAC. Extensive surgical hardware limits separation of calcium from metal, particularly near the proximal left coronary arteries, and prevents confident LAD assessment. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:15:01.314466+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 628,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "116181",
+  "study_id": "E037",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Aortic root calcification",
+   "Calcified right hilar lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Review of all 63 slices shows a small focal calcific deposit along the proximal LAD course, most apparent on slices 027–028. No definite additional LM, LCx, or RCA calcium or extensive continuous coronary deposits are identified. Cardiac motion and image noise limit precise localization and assessment of tiny deposits. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:15:38.691360+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 956,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "123427",
+  "study_id": "E038",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Aortic valve/root calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 75 slices reviewed. Calcium follows the LM/proximal LAD over several consecutive slices, with smaller focal deposits in the RCA and LCx courses. Overall coronary burden appears moderate without extensive dense continuous involvement. Prominent aortic wall and valve/root calcium is excluded. Cardiac motion limits precise vessel assignment and visual score estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:16:02.676778+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41481,
+   "output_tokens": 539,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "204460",
+  "study_id": "E043",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM",
+   "LAD"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Probable aortic root/valvular calcification",
+   "Calcified right upper lobe granuloma and right hilar lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 56 slices reviewed. Small focal calcifications are visible along the LAD and near the left main origin, without extensive or continuous deposits. No definite LCx or RCA calcium. Overall coronary burden is mild; aortic root proximity limits precise attribution of the proximal focus. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:16:28.754493+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 34812,
+   "output_tokens": 607,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "125808",
+  "study_id": "E044",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Extensive calcified atherosclerosis of the ascending aorta, aortic arch, and descending thoracic aorta."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. Dense, continuous RCA calcification spans multiple consecutive caudal cardiac slices. Additional definite calcium involves the proximal LAD, LCx, and left main region. The extensive multivessel burden supports severe CAC. Motion blurring limits precise segment delineation; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:16:46.979871+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 328,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "108732",
+  "study_id": "E053",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Aortic valve/root calcification",
+   "Thoracic aortic atherosclerotic calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 70 slices reviewed. Dense, confluent calcium involves the left main/proximal LAD and LCx across consecutive slices, particularly slices 020–028. Smaller discontinuous calcifications follow the RCA through the right AV groove. The aggregate multivessel burden supports severe CAC. Aortic valve/root and thoracic aortic wall calcium were excluded from coronary assessment. The Agatston category is visually estimated, not quantitatively measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:17:10.097685+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 39726,
+   "output_tokens": 397,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "125179",
+  "study_id": "E063",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Small calcified left hilar lymph nodes",
+   "Thoracic spine degenerative changes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 67 contiguous slices. Definite coronary calcium follows the proximal LAD across several slices, with additional LCx calcification in the left atrioventricular groove. No definite RCA calcium; separate LM involvement is uncertain. Overall deposits exceed isolated flecks but are not extensive or densely continuous. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:17:33.835221+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38673,
+   "output_tokens": 529,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "216332",
+  "study_id": "E064",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild thoracic aortic wall calcification",
+   "Elevated left hemidiaphragm with adjacent linear atelectatic change"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 74 slices reviewed. Definite dense, short-segment calcified plaques involve the left main and proximal LAD on slices 040–042. No definite LCx or RCA calcium. The localized burden exceeds isolated flecks but is not extensive throughout the coronary tree, supporting moderate CAC. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:18:03.219408+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 417,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "118365",
+  "study_id": "E072",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic arch wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 81 slices reviewed. Definite short calcified deposits follow the LAD on slices 034–038, LCx around 029–031, and RCA around 008–010 and 021–023. No definite left-main calcium. Despite three-vessel involvement, deposits are relatively short and discontinuous without extensive dense calcification; overall visual burden is moderate. Motion limits precise extent, and the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:18:24.502688+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 43587,
+   "output_tokens": 433,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "218360",
+  "study_id": "E074",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 74 contiguous slices. No definite calcified foci are visible along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray without isolated bright flecks or continuous calcified deposits. Bright anterior chest-wall foci correspond to bone and costal cartilage.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:18:39.696758+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 244,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "101867",
+  "study_id": "E075",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification, including the arch and descending aorta.",
+   "Aortic root calcification.",
+   "Calcified right hilar and mediastinal lymph nodes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 64 contiguous slices. Small focal calcification follows the proximal LAD on slices 021–022. No definite additional LM, LCx, or RCA calcium or extensive continuous coronary deposits. Calcification along the aortic root is considered separate from CAC. The overall visual coronary calcium burden is mild; the Agatston category is an estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:18:59.661183+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 441,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "103367",
+  "study_id": "E076",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LCx, proximal",
+   "RCA, proximal"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 53 slices reviewed. Definite clustered calcium follows the proximal LCx over several consecutive slices, with smaller probable proximal RCA deposits near the aortic root. No definite additional LM or LAD calcium. The overall burden exceeds isolated flecks but is not extensive or densely continuous. Image noise and motion reduce confidence in precise vessel attribution; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:19:32.834895+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 33759,
+   "output_tokens": 835,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "217712",
+  "study_id": "E084",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar lymph nodes and small pulmonary granuloma",
+   "Minimal thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 slices reviewed. Small localized calcification follows the proximal LAD course on slices 035–037. No definite LM, LCx, or RCA calcium is identified. Overall coronary burden is mild, without extensive or dense continuous deposits. Noise and motion reduce confidence; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:19:58.541371+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 437,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "127983",
+  "study_id": "E086",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch calcification",
+   "Tracheobronchial cartilage calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 77 slices reviewed. Dense, contiguous calcium involves the left main/proximal LAD region, most conspicuous on slices 029–034, with additional LCx calcium along the left AV groove. No definite RCA calcium. The continuous dense deposits and multivessel distribution favor severe visual CAC. Motion limits precise vessel attribution; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:20:21.710415+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 42183,
+   "output_tokens": 393,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "134385",
+  "study_id": "E098",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified mediastinal and hilar lymph nodes, including a densely calcified subcarinal node."
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Reviewed all 63 contiguous slices. Small focal calcification near the left main coronary origin is visible on slices 019–021. No definite additional calcium follows the LAD, LCx, or RCA courses. Overall coronary burden is small and localized. Cardiac motion limits precise localization; prominent posterior mediastinal and hilar calcifications are extracoronary.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:20:41.535998+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 375,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "110452",
+  "study_id": "E099",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LCx"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Calcified right hilar lymph nodes",
+   "Probable focal inferior pericardial calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 72 slices reviewed. Small-volume calcification follows the LCx in the left atrioventricular groove around slices 026–029. No definite LM, LAD, or RCA calcium and no extensive dense coronary deposits. Motion and image noise reduce localization confidence; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:21:03.002487+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40428,
+   "output_tokens": 492,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 3
+ },
+ {
+  "pid": "209920",
+  "study_id": "E003",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 66 slices reviewed. Dense, confluent calcium follows the left main bifurcation into the proximal LAD and LCx across slices 022–026. Additional discontinuous RCA calcification appears across several inferior slices and near its origin. The dense proximal deposits and multivessel distribution favor severe CAC. Exact separation of the proximal left coronary branches is somewhat limited; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:21:23.060185+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38322,
+   "output_tokens": 428,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "208410",
+  "study_id": "E012",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch atherosclerotic calcification",
+   "Calcified left hilar and subcarinal lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Reviewed all 73 contiguous slices. A short focal coronary calcification, most consistent with proximal LAD plaque, spans slices 030–033. No definite additional calcium is seen in the LM, LCx, or RCA. Overall burden is small without extensive or multivessel deposits. Image noise and motion limit precise localization and detection of tiny deposits; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:21:44.852099+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40779,
+   "output_tokens": 395,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "116034",
+  "study_id": "E022",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Small right breast calcific focus."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 contiguous slices reviewed. No definite bright calcified plaque along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray without isolated calcific flecks or continuous deposits. Mild motion and streak artifacts do not materially limit visual CAC assessment.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:22:02.428526+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 295,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "209973",
+  "study_id": "E027",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification, most prominent in the aortic arch."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 65 contiguous slices. A small focal calcification near the left main coronary course is most apparent on slice_022. No definite additional calcium is seen along the LAD, LCx, or RCA, and there are no extensive or continuous coronary deposits. The more conspicuous cranial calcifications follow the thoracic aortic wall and are excluded from CAC.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:22:27.053759+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37971,
+   "output_tokens": 543,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "115992",
+  "study_id": "E033",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "RCA",
+   "LCx",
+   "LM"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Prior median sternotomy with numerous mediastinal surgical clips and associated metal streak artifact",
+   "Aortic root and thoracic aortic wall calcification",
+   "Calcified left pulmonary granuloma"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Review of all 74 slices shows dense, longitudinal calcification along the RCA and LCx on multiple consecutive slices, with additional probable left main calcification. The aggregate visible burden favors severe CAC. Numerous surgical clips and streak artifacts limit proximal coronary assessment, particularly the LAD; metallic densities were excluded from the calcium assessment. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:22:54.227136+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 597,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "116181",
+  "study_id": "E037",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "RCA"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Small aortic root calcification",
+   "Calcified right hilar and subcarinal lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Review of all 63 slices shows a small focal calcific deposit along the proximal RCA course on slices 018–019. No definite LM, LAD, or LCx calcium or extensive coronary deposits are seen. Cardiac motion and image noise limit assessment of tiny foci. Aortic and lymph-node calcifications are excluded from CAC.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:23:26.963174+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 74841,
+   "output_tokens": 696,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "123427",
+  "study_id": "E038",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Extensive thoracic aortic wall calcification, including the aortic root and arch",
+   "Aortic valve calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 75 slices reviewed. Calcium is most conspicuous along the left main/proximal LAD over consecutive slices, with smaller deposits in the LCx and RCA courses. Overall coronary burden appears moderate; the larger, dense deposits predominantly involve the aorta and aortic valve and are excluded. Cardiac motion and image noise limit precise vessel attribution and burden estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:23:55.453999+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41481,
+   "output_tokens": 631,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "204460",
+  "study_id": "E043",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Small aortic root/valvular calcification",
+   "Calcified right upper-lobe granuloma and right hilar lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 56 slices reviewed. Small focal calcium along the left main coronary course is visible on slices 017–018. No definite additional LAD, LCx, or RCA calcium, and no extensive or continuous coronary deposits. Cardiac motion and image noise limit assessment of tiny foci. The calcium category is a visual estimate, not a measured Agatston score.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:24:24.312319+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 34812,
+   "output_tokens": 688,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "125808",
+  "study_id": "E044",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Extensive calcified atherosclerosis of the ascending thoracic aorta, aortic arch, and descending thoracic aorta."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. Dense, continuous RCA calcification extends across numerous consecutive caudal cardiac slices. Additional definite calcium involves the left main/proximal LAD and LCx over multiple consecutive slices. The extensive multivessel burden supports severe visual CAC. Aortic wall calcium was excluded. The Agatston category is visually estimated, not quantitatively measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:24:42.670006+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 395,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "108732",
+  "study_id": "E053",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Aortic valve/root calcification",
+   "Thoracic aortic atherosclerotic calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 70 slices reviewed. Dense, confluent calcium involves the left main and proximal left coronary branches across consecutive slices, with additional LAD, LCx, and scattered RCA deposits. The multivessel burden supports severe CAC. Aortic valve/root and thoracic aortic wall calcium are excluded from the coronary assessment. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:25:05.454037+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 39726,
+   "output_tokens": 417,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "125179",
+  "study_id": "E063",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 67 slices reviewed. Definite short linear and punctate calcium follows the proximal/mid LAD across several slices, with an additional small LCx deposit in the left AV groove. No definite RCA or separate LM calcification. The aggregate burden exceeds isolated sparse flecks but lacks extensive dense continuous involvement. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:25:26.660696+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38673,
+   "output_tokens": 460,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "216332",
+  "study_id": "E064",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "Left main coronary artery",
+   "Proximal left anterior descending coronary artery"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild thoracic aortic wall calcification",
+   "Elevated left hemidiaphragm with adjacent linear atelectatic change"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 74 slices reviewed. Definite clustered calcified plaques follow the left main/proximal LAD course on slices 040–042, exceeding isolated flecks but remaining localized. No definite LCx or RCA calcium is identified. Overall visual burden is moderate; the Agatston category is an estimate from the supplied images.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:25:44.662766+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 324,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "118365",
+  "study_id": "E072",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic arch wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 81 slices. Definite short-segment LAD calcification spans slices 034–038, with smaller LCx deposits around 029–031 and RCA deposits around 008–010 and 021–023. No definite LM calcium. Overall multifocal burden is moderate, without extensive confluent deposits. Agatston category is visually estimated, not measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:26:09.512124+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 43587,
+   "output_tokens": 379,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "218360",
+  "study_id": "E074",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications.",
+   "Thoracic spine degenerative osteophytes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 74 contiguous slices. No definite bright calcific foci along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray throughout, without isolated flecks or continuous calcified deposits. Visible bone-density structures are extracoronary.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:26:23.700980+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 213,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "101867",
+  "study_id": "E075",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Small aortic root/valvular calcifications",
+   "Calcified right hilar and mediastinal lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 slices reviewed. Small focal calcifications follow the proximal LAD course on slices 021–022. No definite LM, LCx, or RCA calcification is identified. Coronary calcium is sparse, without dense or extensive deposits, supporting mild CAC. Aortic and nodal calcifications are excluded from the coronary assessment.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:26:42.720548+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 435,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "103367",
+  "study_id": "E076",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LCx"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic root calcification",
+   "Mild thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 53 slices reviewed. Clustered, short-segment coronary calcification is visible along the proximal LCx/left AV groove on slices 014–017, most conspicuous on 015–016. No definite separate LM, LAD, or RCA calcification. The burden exceeds an isolated fleck but is not extensive or continuously dense. Noise and cardiac motion limit precise vessel localization and visual Agatston estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:27:10.268785+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 33759,
+   "output_tokens": 619,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "217712",
+  "study_id": "E084",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar lymph nodes and small pulmonary granuloma",
+   "Minimal thoracic aortic wall calcification",
+   "Thoracic spine degenerative osteophytes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 64 slices reviewed. A small, short calcified plaque follows the proximal LAD on approximately slices 035–037. No definite LM, LCx, or RCA calcium is identified. Overall burden is sparse, without extensive or dense continuous coronary deposits. Image noise and cardiac motion limit assessment of tiny plaques; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:27:27.534754+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 348,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "127983",
+  "study_id": "E086",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification",
+   "Tracheobronchial cartilage calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 77 slices reviewed. Dense, confluent calcium involves the left main and proximal LAD across consecutive slices, with additional LCx calcification in the left AV groove. No definite RCA calcium. The dense contiguous left coronary deposits support severe visual CAC; the Agatston category is estimated, not measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:27:48.776578+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 42183,
+   "output_tokens": 496,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "134385",
+  "study_id": "E098",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM (small focus near the left coronary origin)"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified mediastinal and hilar lymph nodes, including a densely calcified subcarinal node."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. A small bright calcific focus near the left main coronary origin is visible on slices 020–021. No definite calcium is identified along the LAD, LCx, or RCA elsewhere. The coronary burden is focal and sparse, without extensive or continuous deposits. Motion limits precise localization near the aortic root; prominent posterior mediastinal and hilar calcifications are extracoronary.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:28:07.244505+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 395,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "110452",
+  "study_id": "E099",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Probable mitral annular calcification",
+   "Focal inferior pericardial calcification",
+   "Thoracic aortic atherosclerotic calcification",
+   "Calcified right hilar lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "Reviewed all 72 contiguous slices. No definite calcified plaque is identified along the LM, LAD, LCx or RCA. Curvilinear calcium at the left atrioventricular junction favors mitral annular localization. Inferior cardiac-surface calcium appears pericardial. Motion and image noise limit exclusion of tiny coronary deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:28:45.761067+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40428,
+   "output_tokens": 831,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 4
+ },
+ {
+  "pid": "209920",
+  "study_id": "E003",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Calcified atherosclerosis of the thoracic aorta and arch branches"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 66 slices reviewed. Dense, confluent calcium involves the left main and proximal LAD/LCx across slices 022–026. Additional discontinuous calcified plaques follow the RCA across several caudal slices. The dense multivessel burden supports severe CAC. The Agatston category is visually estimated, not quantitatively measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:29:07.223032+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38322,
+   "output_tokens": 479,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "208410",
+  "study_id": "E012",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "Proximal LAD near the LM bifurcation"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch wall calcification",
+   "Calcified left hilar and subcarinal lymph nodes"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 73 slices reviewed. A small focal coronary calcified plaque is visible on slices 030–033 near the LM/proximal LAD junction, favored proximal LAD. No definite additional RCA or LCx calcium or extensive coronary deposits. Noise and streak artifact limit precise vessel assignment and detection of tiny deposits. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:29:33.840816+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40779,
+   "output_tokens": 651,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "116034",
+  "study_id": "E022",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcifications.",
+   "Small right breast calcification."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 contiguous slices reviewed. No definite calcified foci along the LM, LAD, LCx, or RCA. Coronary regions remain gray without isolated bright flecks or continuous calcified deposits. Mild motion and streak artifacts do not substantially limit visual assessment.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:29:48.495431+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 263,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "209973",
+  "study_id": "E027",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic wall calcification, predominantly involving the arch."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Review of all 65 slices shows a small calcific fleck along the left main coronary course near the aortic root, best seen on slice_022. No definite additional LAD, LCx, or RCA calcium or continuous coronary deposits. The remaining vascular calcifications involve the thoracic aorta. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:30:13.724820+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37971,
+   "output_tokens": 390,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "115992",
+  "study_id": "E033",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "RCA",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Prior median sternotomy with numerous mediastinal surgical clips",
+   "Probable mitral annular calcification",
+   "Mild aortic root and thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 74 slices reviewed. Dense, extended calcification follows the RCA over consecutive slices, with additional calcification along the proximal left coronary courses, favoring severe multivessel CAC. Numerous surgical clips and associated streak artifacts limit separation of some left coronary deposits from postoperative material. Metallic clips and annular/aortic calcium were excluded from the visual burden estimate; the Agatston category is approximate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:30:37.986764+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 591,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "116181",
+  "study_id": "E037",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "RCA"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic root and thoracic aortic wall calcification.",
+   "Calcified right hilar/subcarinal lymph nodes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. Small calcific foci follow the RCA course on slices 018–019, with otherwise sparse coronary calcium. No definite LM, LAD, or LCx calcification. Aortic and nodal calcifications are excluded from CAC. Mild motion and image noise limit assessment of tiny deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:30:58.126826+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 456,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "123427",
+  "study_id": "E038",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Extensive thoracic aortic wall calcification, including the aortic root",
+   "Aortic valve calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 75 slices reviewed. Coronary calcium is most conspicuous along the left main/proximal LAD over consecutive slices, with smaller foci along the RCA and LCx courses. Overall coronary burden appears moderate; much of the prominent central calcium belongs to the aortic root and valve and is excluded. Cardiac motion limits precise vessel attribution and burden estimation.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:31:35.762603+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41481,
+   "output_tokens": 932,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "204460",
+  "study_id": "E043",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD",
+   "LM ostium (probable)"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Aortic root calcification",
+   "Calcified right upper lobe granuloma and right hilar lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 56 slices reviewed. Small focal calcifications along the LAD on slices 012–013 and probable left main ostial calcium on slices 017–018. No definite RCA or LCx calcium. Overall coronary burden is sparse, without dense or extensive deposits. Adjacent aortic root calcium limits certainty of left main involvement.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:32:11.795745+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 34812,
+   "output_tokens": 687,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "125808",
+  "study_id": "E044",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Extensive calcified atherosclerosis of the ascending thoracic aorta, aortic arch, and descending thoracic aorta.",
+   "Calcification in the aortic arch branch vessels."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 63 slices reviewed. Dense, continuous RCA calcium spans numerous consecutive caudal cardiac slices. Additional definite calcium involves the left main, proximal LAD, and LCx across consecutive slices near the aortic root and left AV groove. The extensive multivessel burden supports severe CAC and an estimated Agatston category >300. Aortic wall calcium was excluded. Cardiac motion limits precise delineation but does not obscure the substantial coronary calcium burden.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:32:32.301916+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 353,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "108732",
+  "study_id": "E053",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 4,
+  "agatston_category_estimated": ">300",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Aortic valve/root calcification",
+   "Thoracic aortic atherosclerotic calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 70 slices reviewed. Dense, confluent calcium involves the left main/proximal LAD and LCx across consecutive slices, particularly slices 020–028. Smaller calcified plaques follow the RCA on several inferior slices. The extensive multivessel coronary burden supports severe CAC. Aortic valve/root and thoracic aortic wall calcium were assessed separately. The Agatston category is visually estimated, not quantitatively measured.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:32:51.432123+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 39726,
+   "output_tokens": 361,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "125179",
+  "study_id": "E063",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Small calcified left hilar lymph nodes",
+   "Focal posterior cardiac/pericardial calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 67 slices reviewed. Definite short calcified plaques follow the LAD across several slices, with additional focal LCx calcification in the left atrioventricular groove. No definite RCA or separately distinguishable LM calcium. The overall burden exceeds isolated flecks but lacks extensive dense, continuous deposits, favoring moderate CAC. The Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:33:14.704219+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 38673,
+   "output_tokens": 437,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "216332",
+  "study_id": "E064",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LAD"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild thoracic aortic wall calcification",
+   "Elevated left hemidiaphragm with adjacent mild linear atelectasis"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 74 contiguous slices. Definite dense calcification follows the distal left main and proximal LAD on slices 040–042. This exceeds isolated flecks but remains localized, supporting moderate overall burden. No definite LCx or RCA calcium is identified. Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:33:34.328664+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 378,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "118365",
+  "study_id": "E072",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LAD",
+   "LCx",
+   "RCA"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mild aortic arch wall calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 81 slices reviewed. Definite proximal LAD calcium spans slices 034–038, with smaller LCx deposits around 029–030 and scattered RCA deposits around 008–010 and 021–023. No definite LM calcium. Overall burden is multifocal but involves short segments without extensive dense continuous calcification, favoring moderate CAC. Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:33:59.739135+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 43587,
+   "output_tokens": 428,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "218360",
+  "study_id": "E074",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "HIGH",
+  "alternative_findings": [
+   "Costal cartilage calcification.",
+   "Thoracic spine degenerative changes."
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 74 contiguous slices were reviewed. No definite bright calcific foci are visible along the LM, LAD, LCx, or RCA courses. Coronary regions remain gray without isolated flecks or continuous calcified deposits. Visible bone and costal cartilage calcification is extracoronary.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:34:15.433928+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 41130,
+   "output_tokens": 231,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "101867",
+  "study_id": "E075",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Thoracic aortic atherosclerotic calcification",
+   "Small aortic root/valvular calcifications",
+   "Calcified right hilar and mediastinal lymph nodes"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 64 slices reviewed. Small focal calcifications follow the proximal LAD on slices 021–022. No definite LM, LCx, or RCA calcification and no extensive or continuous coronary deposits. Calcium burden is visually mild; the Agatston category is an estimate from the supplied images.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:34:37.159551+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 427,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "103367",
+  "study_id": "E076",
+  "cac_present": true,
+  "cac_severity": "MODERATE",
+  "cac_locations": [
+   "LM",
+   "LCx"
+  ],
+  "n_vessels_involved": 2,
+  "agatston_category_estimated": "101-300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic root and thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 53 slices reviewed. Definite clustered coronary calcification near the left main/proximal circumflex course persists across several adjacent slices, most conspicuously slices 014–017. The burden exceeds isolated flecks but is not extensive or diffusely dense. No definite additional LAD or RCA calcification. Image noise and cardiac motion limit precise vessel assignment; the Agatston category is a visual estimate.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:35:02.599552+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 33759,
+   "output_tokens": 613,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "217712",
+  "study_id": "E084",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LAD, proximal segment"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified left hilar lymph nodes",
+   "Calcified left pulmonary granuloma",
+   "Minimal thoracic aortic wall calcification"
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 64 slices reviewed. A small localized calcific deposit follows the proximal LAD course on slices 035–037. No definite additional calcium in the LM, LCx, or RCA. Overall burden is mild without extensive or multivessel deposits. Image noise and cardiac motion limit assessment of tiny foci; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:35:28.011274+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37620,
+   "output_tokens": 477,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "127983",
+  "study_id": "E086",
+  "cac_present": true,
+  "cac_severity": "SEVERE",
+  "cac_locations": [
+   "LM",
+   "LAD",
+   "LCx"
+  ],
+  "n_vessels_involved": 3,
+  "agatston_category_estimated": ">300",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Aortic arch wall calcification",
+   "Tracheobronchial cartilage calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "All 77 slices reviewed. Dense, confluent calcium follows the left main/proximal LAD region, with additional LCx calcium across consecutive slices, predominantly slices 024–034. This exceeds isolated flecks and supports severe visual CAC. No definite RCA calcium. Motion and image noise limit precise segment assignment; the Agatston category is visually estimated.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:35:49.247955+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 42183,
+   "output_tokens": 421,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "134385",
+  "study_id": "E098",
+  "cac_present": true,
+  "cac_severity": "MILD",
+  "cac_locations": [
+   "LM"
+  ],
+  "n_vessels_involved": 1,
+  "agatston_category_estimated": "1-100",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Calcified mediastinal and bilateral hilar lymph nodes, including dense subcarinal calcification"
+  ],
+  "image_quality_flag": "ADEQUATE",
+  "reasoning": "Reviewed all 63 contiguous slices. A small focal calcification near the left main coronary origin is most conspicuous on slice_020, with minimal adjacent-slice extent. No definite LAD, LCx, or RCA calcium or extensive coronary deposits are visible. Prominent posterior mediastinal and hilar calcifications are extracoronary. Mild motion limits precise ostial localization.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:36:15.085941+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 37269,
+   "output_tokens": 336,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ },
+ {
+  "pid": "110452",
+  "study_id": "E099",
+  "cac_present": false,
+  "cac_severity": "NONE",
+  "cac_locations": [],
+  "n_vessels_involved": 0,
+  "agatston_category_estimated": "0",
+  "confidence": "MEDIUM",
+  "alternative_findings": [
+   "Mitral annular calcification.",
+   "Small foci of inferior pericardial calcification.",
+   "Thoracic aortic atherosclerotic calcification.",
+   "Calcified hilar lymph nodes."
+  ],
+  "image_quality_flag": "LIMITED",
+  "reasoning": "All 72 slices reviewed. No definite calcified plaque follows the LM, LAD, LCx, or RCA. The short curved calcification at the left atrioventricular junction appears annular rather than coronary. Motion and streak artifact limit exclusion of very small coronary deposits.",
+  "gpt_meta": {
+   "model": "gpt-6-astra",
+   "timestamp": "2026-09-23T19:36:45.781420+00:00",
+   "harness": "B",
+   "reasoning_effort": "default (not reported by Codex CLI)",
+   "tool_calls": {
+    "file_read": 0,
+    "code": 0,
+    "other": 0
+   },
+   "input_tokens": 40428,
+   "output_tokens": 761,
+   "retries": 0,
+   "notes": ""
+  },
+  "read": 5
+ }
+]

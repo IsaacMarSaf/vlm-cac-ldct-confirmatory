@@ -1,0 +1,9 @@
+# Python 3.12.13 (versions used in the study)
+numpy==2.5.0
+scipy==1.18.0
+scikit-learn==1.9.0
+pandas==2.2.3
+pydicom==3.0.2
+pillow==12.2.0
+matplotlib==3.11.0
+idc-index==0.12.3

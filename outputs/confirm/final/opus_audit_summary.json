@@ -1,0 +1,13 @@
+{
+ "valid_main": 100,
+ "valid_rel": 100,
+ "expected_main": 100,
+ "expected_rel": 100,
+ "invalid_reads": 1,
+ "labels_without_valid_read": [],
+ "slices_viewed": 13625,
+ "slices_total": 13625,
+ "launched_more_than_once": {
+  "r:E064#r5": 2
+ }
+}

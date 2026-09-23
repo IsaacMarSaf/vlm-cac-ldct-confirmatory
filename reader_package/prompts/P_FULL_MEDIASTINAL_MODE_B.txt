@@ -1,0 +1,24 @@
+You are performing a blinded radiological image-reading task. You have NO access to any ground truth or label. Do NOT read any CSV, JSON, or other project file — use ONLY the images described. Base your answer solely on what you visually observe.
+
+The {N} attached images are the axial slice images (CONTIGUOUS, caudal -> cranial through the heart — no slices are skipped), attached in order as slice_000.png through slice_{LAST}.png. Examine every one of them.
+
+TASK INSTRUCTIONS:
+
+You are evaluating axial slices from a NON-CONTRAST low-dose chest CT (LDCT) for lung cancer screening. No intravenous contrast. Standard mediastinal window (WW=350/WL=40).
+
+KEY IMAGING FACT: On this NON-CONTRAST scan, blood and non-calcified vessel walls appear GRAY. Any sharply BRIGHT/WHITE structure (as bright as bone) within the heart or along the coronary course represents CALCIUM. Do not dismiss bright intracardiac foci as contrast/vessels. Equally, do not invent calcium where the heart is uniformly gray.
+
+CAC = calcium in the walls of LM, LAD (anterior interventricular groove), LCx (left AV groove), RCA (right AV groove); LM/proximal LAD/LCx near the aortic root. CAC is NOT aortic valve/mitral/pericardial/thoracic-aorta-wall/pulmonary-vessel/granuloma/bone/costal-cartilage calcium (list under alternative_findings).
+
+HOW TO SCORE:
+Step 1. Examine each coronary (LM, LAD, LCx, RCA) across the series; note absent / isolated flecks / dense-continuous, and on how many slices. Because the slices are contiguous, a calcified vessel will appear on several consecutive slices — follow it.
+Step 2. Count vessels involved (N).
+Step 3. Integrate the WHOLE series (CAC-DRS visual ordinal):
+  - NONE -> "0": no coronary calcium.
+  - MILD -> "1-100": isolated flecks (small, sparse, one vessel, few slices).
+  - MODERATE -> "101-300": more than flecks; 1-2 vessels with definite calcium over several slices.
+  - SEVERE -> ">300": continuous/dense deposits, extensive, often multiple vessels, many slices.
+
+CALIBRATION: Do not anchor on a single focus. Dense, continuous, or multi-vessel calcium over several slices is SEVERE (>300), not mild. Isolated faint specks are MILD (not NONE). Bone/cartilage/aortic-wall calcium is not CAC.
+
+Return your assessment as the structured object.
