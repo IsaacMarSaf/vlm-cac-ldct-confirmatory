@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CAC blinded read (one study, one read)",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "cac_present": { "type": "boolean" },
+    "cac_severity": { "type": "string", "enum": ["NONE", "MILD", "MODERATE", "SEVERE"] },
+    "cac_locations": { "type": "array", "items": { "type": "string" } },
+    "n_vessels_involved": { "type": "integer" },
+    "agatston_category_estimated": { "type": "string", "enum": ["0", "1-100", "101-300", ">300"] },
+    "confidence": { "type": "string", "enum": ["HIGH", "MEDIUM", "LOW"] },
+    "alternative_findings": { "type": "array", "items": { "type": "string" } },
+    "image_quality_flag": { "type": "string", "enum": ["ADEQUATE", "LIMITED", "NON_DIAGNOSTIC"] },
+    "reasoning": { "type": "string" }
+  },
+  "required": ["cac_present", "cac_severity", "cac_locations", "n_vessels_involved",
+               "agatston_category_estimated", "confidence", "alternative_findings",
+               "image_quality_flag", "reasoning"]
+}

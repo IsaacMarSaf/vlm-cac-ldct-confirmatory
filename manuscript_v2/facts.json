@@ -1,0 +1,38 @@
+{
+ "_note": "Subset of the pilot fact sheet: only the aggregate main-benchmark estimates that scripts/60 reads for Table S6.",
+ "perf": {
+  "opus": {
+   "any": {
+    "sens": 0.933333,
+    "spec": 0.72
+   },
+   "wkappa": 0.745833,
+   "sig_category": {
+    "sens": 0.86,
+    "spec": 0.74
+   }
+  },
+  "gpt": {
+   "any": {
+    "sens": 0.88,
+    "spec": 0.72
+   },
+   "wkappa": 0.768939,
+   "sig_category": {
+    "sens": 0.94,
+    "spec": 0.78
+   }
+  },
+  "deepcac": {
+   "any": {
+    "sens": 0.933333,
+    "spec": 0.72
+   },
+   "wkappa": 0.85124,
+   "sig_category": {
+    "sens": 0.84,
+    "spec": 0.96
+   }
+  }
+ }
+}

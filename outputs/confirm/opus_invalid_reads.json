@@ -1,0 +1,18 @@
+{
+ "invalid_reads": [
+  {
+   "label": "r:E064#r5",
+   "agent_id": "aba69c16346fdd619",
+   "slices_viewed": 74,
+   "slices_total": 74,
+   "outside": [],
+   "other_tools": {
+    "Bash": 1
+   },
+   "models": {
+    "claude-opus-5-5": 85
+   }
+  }
+ ],
+ "labels_without_valid_read": []
+}

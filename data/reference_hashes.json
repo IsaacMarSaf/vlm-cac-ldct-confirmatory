@@ -1,0 +1,8 @@
+{
+ "file": "data/Results_NLST.csv",
+ "git_blob_sha1_in_frozen_commit": "e4851f2e5f7b6fdb70b97ee99c2524f7655c51e8",
+ "sha256_lf_normalized": "c50d0acd1becadfeb6eb718fa92ba05dd3e794d70417d66bbc969a3bb6030e6d",
+ "rows": 396,
+ "header": "PID,CAC_AI,CAC_manual",
+ "frozen_sample_blob_sha1": "afd92cd50fb8b39736e7f3092e4b63db2ea6d972"
+}
