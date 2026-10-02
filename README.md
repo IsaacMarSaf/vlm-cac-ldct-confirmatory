@@ -162,9 +162,3 @@ The scripts ran in the investigators' project folder, and some refer to sibling 
 All code in this repository (`*.py`, `*.js`) is under the MIT License (`LICENSE`). The protocol, logs, prompts, schema, model
 outputs, audit records, manifests, and documentation are under CC BY 4.0 (`LICENSE-DATA.md`). The rendered images remain
 under the CC BY 4.0 license of their source.
-
-## Use of AI assistance
-
-Claude Opus 5.5, one of the evaluated models, assisted with study code, including its own reading workflow and audit, and
-with assembling this deposit, under the investigators' supervision. The investigators reviewed all analyses. Model outputs
-in this repository are raw research data, not clinical advice. The models are not medical devices for CAC assessment.
