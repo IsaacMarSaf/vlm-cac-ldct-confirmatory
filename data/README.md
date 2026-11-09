@@ -9,16 +9,22 @@
 ## The reference file (not redistributed)
 
 `scripts/52`, `55`, `60`, and `61` read `data/Results_NLST.csv`. It lists 396 NLST participants with the expert manual
-Agatston score (`CAC_manual`, the reference standard) and the DeepCAC prediction (`CAC_AI`, the comparator). It comes from
-the Source Data provided with Zeleznik R, Foldyna B, Eslami P, et al. *Deep convolutional neural networks to predict
-cardiovascular risk from computed tomography.* Nat Commun 2021;12(1):715. doi:10.1038/s41467-021-20966-2.
+Agatston score (`CAC_manual`, the reference standard) and the DeepCAC prediction (`CAC_AI`, the comparator). It is the
+results file that Zeleznik et al shared in the public DeepCAC repository (Zeleznik R, Foldyna B, Eslami P, et al. *Deep
+convolutional neural networks to predict cardiovascular risk from computed tomography.* Nat Commun 2021;12(1):715;
+doi:10.1038/s41467-021-20966-2).
 
-To obtain it, download the article's Source Data file. Take the NLST participant identifier, the DeepCAC-predicted
-Agatston score, and the manually measured Agatston score of the 396 NLST participants, and save them as
-`data/Results_NLST.csv` with the header `PID,CAC_AI,CAC_manual`, one row per participant, and LF line endings. The exact sheet
-and column names of the Source Data file were not recorded, so verify your copy against the file used in the study:
+To obtain it, download `stats/Results_NLST.csv` from that repository at a fixed commit and save it, unchanged, as
+`data/Results_NLST.csv`:
 
-- 396 data rows;
+https://github.com/AIM-Harvard/DeepCAC/blob/ff480d8e97a892bd95bc52efa16af8e5ffd281bb/stats/Results_NLST.csv
+
+The raw file is at
+`https://raw.githubusercontent.com/AIM-Harvard/DeepCAC/ff480d8e97a892bd95bc52efa16af8e5ffd281bb/stats/Results_NLST.csv`.
+Its git blob id is the one recorded in the frozen commit, so it is byte-identical to the file used in the study. Check
+your copy:
+
+- 396 data rows, with the header `PID,CAC_AI,CAC_manual`;
 - SHA-256 `c50d0acd1becadfeb6eb718fa92ba05dd3e794d70417d66bbc969a3bb6030e6d` (LF line endings);
 - git blob id `e4851f2e5f7b6fdb70b97ee99c2524f7655c51e8`, the id recorded in the frozen commit.
 
