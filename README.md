@@ -204,6 +204,8 @@ under the CC BY 4.0 license of their source.
 
 ## Use of AI assistance
 
-Claude Opus 5.5 assisted the investigators with writing study code, under their supervision. The model reads analyzed here
-were produced by separate, blinded model instances. The investigators reviewed all analyses. Model outputs in this repository
-are raw research data, not clinical advice. The models are not medical devices for CAC assessment.
+Claude Opus 5.5, one of the two evaluated models, was also used as a coding assistant under the principal investigator's
+direction: it wrote the scripts for sampling, image download and rendering, reader packaging, read auditing, statistical
+analysis, and figures, and a coauthor independently reproduced the results. The model reads analyzed here were produced by
+separate, blinded model instances. Model outputs in this repository are raw research data, not clinical advice. The models
+are not medical devices for CAC assessment.
